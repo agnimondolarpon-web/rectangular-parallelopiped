@@ -1,0 +1,25 @@
+# Compiled binaries
+calculator
+calculator.exe
+*.o
+*.out
+*.a
+*.so
+*.dll
+
+# Build directories
+build/
+bin/
+out/
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.vcxproj*
+
+# OS files
+.DS_Store
+Thumbs.db
